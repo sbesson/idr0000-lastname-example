@@ -1,10 +1,10 @@
-idr0000: The example dataset
-============================
+idr0000: The example study
+==========================
 
-The metadata for IDR datasets are contained within a directory
+The metadata for IDR studies are contained within a directory
 starting with the IDR accession number (here: 0000) followed by
 the last name (in letters only) of the first author followed by
-a descriptive term for the dataset (here: "example").
+a descriptive term for the study (here: "example").
 
 
 Files within top-level directory define metadata for the entire
@@ -19,7 +19,7 @@ Note: usually there will only be one of these files and it will be
       named "idr0000-study.txt".
 
 
-Subdirectories within the dataset define metadata for individual
+Subdirectories within the study define metadata for individual
 screens or experiments within the study:
 
  * screenA: processed and library files for a typical screen
