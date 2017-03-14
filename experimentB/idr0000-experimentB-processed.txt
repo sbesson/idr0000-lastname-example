@@ -1,0 +1,1 @@
+# this file should contain results information.  The first column should contain something that can be used to link the results to the assays file e.g. Experimental Condition [targeted protein]
