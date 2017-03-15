@@ -1,8 +1,8 @@
 idr0000: The example study
 ==========================
 
-Tab-delimited metadata for IDR studies is defined in a
-directory starting with the IDR accession number (here:
+The tab-delimited metadata files for each IDR study are kept
+in a directory starting with the IDR accession number (here:
 0000) followed by the last name (in letters only) of the
 first author followed by a descriptive term for the study
 (here: "example").
