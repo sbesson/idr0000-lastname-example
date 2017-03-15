@@ -1,13 +1,13 @@
 idr0000: The example study
 ==========================
 
-The metadata for IDR studies are contained within a directory
+Tab-delimited metadata for IDR studies is defined in a directory
 starting with the IDR accession number (here: 0000) followed by
 the last name (in letters only) of the first author followed by
 a descriptive term for the study (here: "example").
 
 
-Files within top-level directory define metadata for the entire
+Files within the top-level directory define metadata for the entire
 study:
 
  * idr00000-study_HCS.txt: an example study file for use with
@@ -24,5 +24,6 @@ screens or experiments within the study:
 
  * screenA: processed and library files for a typical screen
  * experimentB: processed and assay files for a typical experiment
+
 
 See http://idr-demo.openmicroscopy.org/about/submission.html for more information
