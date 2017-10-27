@@ -31,6 +31,6 @@ The current directory includes a set of examples summarized in the table below:
 | Rows | Columns | Fields | Sparse | File |
 |------|---------|--------|--------|------|
 | 1 | 1 | 1 | no | [1row1column1field.screen](1row1column1field.screen) |
-| 2 | 2 | 1 | no | [1row1column1field.screen](2rows2columns1field.screen) |
-| 2 | 2 | 2 | no | [1row1column1field.screen](1row1column1field.screen) |
+| 2 | 2 | 1 | no | [2rows2columns1field.screen](2rows2columns1field.screen) |
+| 2 | 2 | 2 | no | [2rows2columns2fields.screen](2rows2columns2fields.screen) |
 | 8 | 6 | 2 | yes | [sparse.screen](sparse.screen) |
