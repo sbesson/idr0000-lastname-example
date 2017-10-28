@@ -21,7 +21,7 @@ The minimum specification for the content of a screen file is the following:
 
 The current screen file format has the following limitations:
 
-- each plate can be declared by screen file
+- only one plate can be declared by a screen file
 - only one file per well and per field is supported
 
 ## Examples 
