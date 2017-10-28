@@ -6,4 +6,4 @@ Fields = 1
 [Well 0]
 Row = 0
 Column = 0
-Field_0 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake

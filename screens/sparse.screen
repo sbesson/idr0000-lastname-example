@@ -10,8 +10,8 @@ Column = 0
 [Well 1]
 Row = 0
 Column = 1
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 2]
 Row = 0
@@ -20,14 +20,14 @@ Column = 2
 [Well 3]
 Row = 0
 Column = 3
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 4]
 Row = 0
 Column = 4
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 5]
 Row = 0
@@ -48,25 +48,25 @@ Column = 0
 [Well 9]
 Row = 1
 Column = 1
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 10]
 Row = 1
 Column = 2
-Field_0 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
 
 [Well 11]
 Row = 1
 Column = 3
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 12]
 Row = 1
 Column = 4
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 13]
 Row = 1
@@ -87,24 +87,24 @@ Column = 0
 [Well 17]
 Row = 2
 Column = 1
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 18]
 Row = 2
 Column = 2
-Field_0 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
 
 [Well 19]
 Row = 2
 Column = 3
-Field_0 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
 
 [Well 20]
 Row = 2
 Column = 4
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 21]
 Row = 2
@@ -125,26 +125,26 @@ Column = 0
 [Well 25]
 Row = 3
 Column = 1
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 26]
 Row = 3
 Column = 2
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 27]
 Row = 3
 Column = 3
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 28]
 Row = 3
 Column = 4
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 29]
 Row = 3
@@ -165,32 +165,32 @@ Column = 0
 [Well 33]
 Row = 4
 Column = 1
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 34]
 Row = 4
 Column = 2
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 35]
 Row = 4
 Column = 3
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 36]
 Row = 4
 Column = 4
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 37]
 Row = 4
 Column = 5
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 38]
 Row = 4
@@ -207,32 +207,32 @@ Column = 0
 [Well 41]
 Row = 5
 Column = 1
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 42]
 Row = 5
 Column = 2
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 43]
 Row = 5
 Column = 3
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 44]
 Row = 5
 Column = 4
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 45]
 Row = 5
 Column = 5
-Field_0 = test.fake # to replace by the absolute path to the path on disk
-Field_1 = test.fake # to replace by the absolute path to the path on disk
+Field_0 = test.fake
+Field_1 = test.fake
 
 [Well 46]
 Row = 5
