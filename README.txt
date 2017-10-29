@@ -29,6 +29,10 @@ individual screens or experiments within the study:
  * experimentB: processed and assay files for a typical
    experiment
 
+ * patterns: pattern files for a typical experiment
 
-See http://idr-demo.openmicroscopy.org/about/submission.html
+ * screens: screen files used for a typical screen
+
+
+See https://idr.openmicroscopy.org/about/submission.html
 for more information
