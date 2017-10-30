@@ -2,7 +2,7 @@
 
 Pattern files can be used for multi-dimensional multi-file filesets where
 individual files can be read by
-[Bio-Formats](https://www.openmicroscopy.org/bio-formats but there is no
+[Bio-Formats](https://www.openmicroscopy.org/bio-formats) but there is no
 explicit metadata or specification expressing how to group the files.
 
 ## Format specification
