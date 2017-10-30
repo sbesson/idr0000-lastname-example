@@ -17,6 +17,6 @@ A set of example pattern files are provided in the current directory.
 
 | SizeZ | SizeC | SizeT | File |
 |-------|-------|-------|------|
-| 1 | 1 | 100 | [multiT.pattern](multiT.pattern) |
-| 200 | 2 | 1 | [multiC.pattern](multiC.pattern) |
-| 11 | 2 | 20 | [multiZCT.pattern](multiZCT.pattern) |
+| 1 | 1 | 100 | [multiT.pattern](multiT/multiT.pattern) |
+| 200 | 2 | 1 | [multiC.pattern](multiC/multiC.pattern) |
+| 11 | 2 | 20 | [multiZCT.pattern](multiZCT/multiZCT.pattern) |
