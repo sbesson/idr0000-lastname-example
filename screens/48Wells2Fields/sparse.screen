@@ -10,8 +10,8 @@ Column = 0
 [Well 1]
 Row = 0
 Column = 1
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = A02_f1.fake
+Field_1 = A02_f2.fake
 
 [Well 2]
 Row = 0
@@ -20,14 +20,14 @@ Column = 2
 [Well 3]
 Row = 0
 Column = 3
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = A04_f1.fake
+Field_1 = A04_f2.fake
 
 [Well 4]
 Row = 0
 Column = 4
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = A05_f1.fake
+Field_1 = A05_f2.fake
 
 [Well 5]
 Row = 0
@@ -48,25 +48,25 @@ Column = 0
 [Well 9]
 Row = 1
 Column = 1
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = B02_f1.fake
+Field_1 = B02_f2.fake
 
 [Well 10]
 Row = 1
 Column = 2
-Field_0 = test.fake
+Field_0 = B03_f1.fake
 
 [Well 11]
 Row = 1
 Column = 3
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = B04_f1.fake
+Field_1 = B04_f2.fake
 
 [Well 12]
 Row = 1
 Column = 4
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = B05_f1.fake
+Field_1 = B05_f2.fake
 
 [Well 13]
 Row = 1
@@ -87,24 +87,24 @@ Column = 0
 [Well 17]
 Row = 2
 Column = 1
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = C02_f1.fake
+Field_1 = C02_f2.fake
 
 [Well 18]
 Row = 2
 Column = 2
-Field_0 = test.fake
+Field_1 = C03_f2.fake
 
 [Well 19]
 Row = 2
 Column = 3
-Field_0 = test.fake
+Field_1 = C04_f2.fake
 
 [Well 20]
 Row = 2
 Column = 4
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = C05_f1.fake
+Field_1 = C05_f2.fake
 
 [Well 21]
 Row = 2
@@ -125,26 +125,26 @@ Column = 0
 [Well 25]
 Row = 3
 Column = 1
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = D02_f1.fake
+Field_1 = D02_f2.fake
 
 [Well 26]
 Row = 3
 Column = 2
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = D03_f1.fake
+Field_1 = D03_f2.fake
 
 [Well 27]
 Row = 3
 Column = 3
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = D04_f1.fake
+Field_1 = D04_f2.fake
 
 [Well 28]
 Row = 3
 Column = 4
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = D05_f1.fake
+Field_1 = D05_f2.fake
 
 [Well 29]
 Row = 3
@@ -165,32 +165,32 @@ Column = 0
 [Well 33]
 Row = 4
 Column = 1
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = E02_f1.fake
+Field_1 = E02_f2.fake
 
 [Well 34]
 Row = 4
 Column = 2
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = E03_f1.fake
+Field_1 = E03_f2.fake
 
 [Well 35]
 Row = 4
 Column = 3
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = E04_f1.fake
+Field_1 = E04_f2.fake
 
 [Well 36]
 Row = 4
 Column = 4
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = E05_f1.fake
+Field_1 = E05_f2.fake
 
 [Well 37]
 Row = 4
 Column = 5
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = E06_f1.fake
+Field_1 = E06_f2.fake
 
 [Well 38]
 Row = 4
@@ -207,32 +207,31 @@ Column = 0
 [Well 41]
 Row = 5
 Column = 1
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = F02_f1.fake
+Field_1 = F02_f2.fake
 
 [Well 42]
 Row = 5
 Column = 2
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = F03_f1.fake
+Field_1 = F03_f2.fake
 
 [Well 43]
 Row = 5
 Column = 3
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = F04_f1.fake
+Field_1 = F04_f2.fake
 
 [Well 44]
 Row = 5
 Column = 4
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = F05_f1.fake
+Field_1 = F05_f2.fake
 
 [Well 45]
 Row = 5
 Column = 5
-Field_0 = test.fake
-Field_1 = test.fake
+Field_0 = F06_f1.fake
 
 [Well 46]
 Row = 5

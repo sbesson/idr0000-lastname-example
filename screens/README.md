@@ -34,9 +34,9 @@ The screen file format has the following limitations:
 A set of example screen files summarized in the following table are provided 
 in the current directory. All the screen files uses fake images for the representation of the image data.
 
-| Rows | Columns | Fields | Sparse | File |
-|------|---------|--------|--------|------|
-| 1 | 1 | 1 | no | [1row1column1field.screen](1row1column1field.screen) |
-| 2 | 2 | 1 | no | [2rows2columns1field.screen](2rows2columns1field.screen) |
-| 2 | 2 | 2 | no | [2rows2columns2fields.screen](2rows2columns2fields.screen) |
-| 8 | 6 | 2 | yes | [sparse.screen](sparse.screen) |
+| Rows | Columns | Fields | Sparse | Folder |
+|------|---------|--------|--------|--------|
+| 1 | 1 | 1 | no | [1Well1Field](1Well1Field) |
+| 2 | 2 | 1 | no | [2Wells1Field](2Wells1Field) |
+| 2 | 2 | 2 | no | [2Wells1Field](2Wells1Field) |
+| 8 | 6 | 2 | yes | [48Wells2Fields](48Wells2Fields) |

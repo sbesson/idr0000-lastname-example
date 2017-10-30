@@ -6,19 +6,19 @@ Fields = 1
 [Well 0]
 Row = 0
 Column = 0
-Field_0 = test.fake
+Field_0 = A01.fake
 
 [Well 1]
-Row = 1
-Column = 0
-Field_0 = test.fake
-
-[Well 2]
 Row = 0
 Column = 1
-Field_0 = test.fake
+Field_0 = A02.fake
+
+[Well 2]
+Row = 1
+Column = 0
+Field_0 = B01.fake
 
 [Well 3]
 Row = 1
 Column = 1
-Field_0 = test.fake
+Field_0 = B02.fake
