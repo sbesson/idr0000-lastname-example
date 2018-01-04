@@ -30,5 +30,5 @@ individual screens or experiments within the study:
    experiment
 
 
-See http://idr-demo.openmicroscopy.org/about/submission.html
+See https://idr.openmicroscopy.org/about/submission.html
 for more information
