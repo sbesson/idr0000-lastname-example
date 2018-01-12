@@ -93,4 +93,4 @@ Processed Data Column Type	"# state the type of value in each column. Choose fro
 Processed Data Column Annotation Level	"# for data and phenotype columns enter the level of the annotation so that it is clear if the value is derived from data from a image, is averaged over many images. E.g. gene, experimental condition"																																
 "experimental condition and gene, phenotype, image, protein"""																																	
 Processed Data Column Description	"# for each data and phenotype column, enter a brief description of what the value represents"																																
-Processed Data Column Link To Library File	"# enter which column can be used to link the information in the processed data file to the library file e.g. targeted protein, or gene identifier"																																
+Processed Data Column Link To Assay File	"# enter which column can be used to link the information in the processed data file to the assay file e.g. targeted protein, or gene identifier"																																
