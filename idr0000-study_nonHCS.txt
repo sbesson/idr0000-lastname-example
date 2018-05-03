@@ -28,6 +28,7 @@ Study Person Last Name	"# fill in, you can add more people, each in their own co
 Study Person First Name	# fill in																																
 Study Person Email	# fill in																																
 Study Person Address	# fill in																																
+Study Person ORCID	# fill in																																
 Study Person Roles	submitter																																
 																																	
 # Study License and Data DOI																																	
