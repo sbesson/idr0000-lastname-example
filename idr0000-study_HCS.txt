@@ -54,8 +54,8 @@ Screen Imaging Method	"# e.g. fluorescence microscopy, spinning disk confocal mi
 Screen Imaging Method Term Source REF	Fbbi																																
 Screen Imaging Method Term Accession	# look up in http://www.ebi.ac.uk/ols/ontologies/fbbi or leave blank																																
 Screen Technology Type	"# choose from: RNAi screen, gene deletion screen, protein screen, compound screen, antibody screen, ORF overexpression screen, or enter your own value"																																
-Screen Type Term Source REF	# leave blank																																
-Screen Type Term Accession	# leave blank																																
+Screen Technology Type Term Source REF	# leave blank																																
+Screen Technology Type Term Accession	# leave blank																																
 Screen Type	"# choose from: primary screen, secondary screen, validation screen, or enter your own value"																																
 Screen Type Term Source REF																																	
 Screen Type Term Accession																																	
