@@ -9,24 +9,31 @@ first author followed by a descriptive term for the study
 
 
 Files within the top-level directory define metadata for the
-entire study:
+entire study. Subdirectories within the study define metadata
+for individual screens or experiments within the study.
 
- * idr00000-study_HCS.txt: an example study file for use
-   with high-content screen data.
-
- * idr00000-study_nonHCS.txt: an example study file for use
-   with a collection of experiments.
-
-      Note: usually there will only be one of these files
-      and it will be named "idr0000-study.txt".
+There are two types of study. Choose the templates that best fit
+the data submission.
 
 
-Subdirectories within the study define metadata for
-individual screens or experiments within the study:
+High content screens (HCS)
+--------------------------
 
- * screenA: processed and library files for a typical screen
+ * idr0000-study_HCS.txt: an example study file for use
+   with high-content screen data. Rename this
+   idr0000-study.txt.
 
- * experimentB: processed and assay files for a typical
+ * screenA/: processed and library files for a typical screen
+
+
+Collections of non-HCS experiments
+----------------------------------
+
+ * idr0000-study_nonHCS.txt: an example study file for use
+   with a collection of experiments. Rename this
+   idr0000-study.txt.
+
+ * experimentB/: processed and assay files for a typical
    experiment
 
 
