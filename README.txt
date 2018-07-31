@@ -34,7 +34,8 @@ Collections of non-HCS experiments
    idr0000-study.txt.
 
  * experimentB/: processed and assay files for a typical
-   experiment
+   experiment. Naming should start with A if no screen is
+   present.
 
 
 See https://idr.openmicroscopy.org/about/submission.html
