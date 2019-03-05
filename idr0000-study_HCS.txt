@@ -7,11 +7,11 @@ Comment[IDR Study Accession]	# leave blank
 Study Title	# fill in																																
 Study Type	high content screen																																
 Study Type Term Source REF	EFO																																
-Study Type Term Accession Number	EFO_0007550																																
+Study Type Term Accession	EFO_0007550																																
 Study Description	# a brief description of the overall aim of the study.  The publication abstract can be entered here.																																
 Study Organism	"# if more than one organism was studied, enter them in separate columns"																																
 Study Organism Term Source REF	NCBITaxon																																
-Study Organism Term Accession Number	# leave blank																																
+Study Organism Term Accession	# leave blank																																
 Study Screens Number	# enter how many screens are in the study																																
 Study External URL	# if there is an existing web page related to the study enter it here																																
 Study Public Release Date	# enter a date of when the data can be made public																																
@@ -79,7 +79,7 @@ Quality Control Description	# a brief description of the kind of quality control
 Protocol Name	growth protocol	treatment protocol	HCS library protocol	HCS image acquistion and feature extraction protocol	HCS data analysis protocol																												
 Protocol Type	growth protocol	treatment protocol	HCS library protocol	HCS image acquistion and feature extraction protocol	HCS data analysis protocol																												
 Protocol Type Term Source REF	EFO	EFO	EFO	EFO	EFO																												
-Protocol Type Term Accession Number	EFO_0003789	EFO_0003969	EFO_0007571	EFO_0007572	EFO_0007573																												
+Protocol Type Term Accession	EFO_0003789	EFO_0003969	EFO_0007571	EFO_0007572	EFO_0007573																												
 Protocol Description	# text about how the cells were grown here	# text about any specific treatment to the cells here	"# text about how the library was selected if not genome wide, transfection, knock outs etc."	"# text about labeling, the imaging hardware and software, feature extraction methods."	# text about the analysis of the images and features.  Information about scoring and the criteria for 'hit' genes should be included here.																												
 																																	
 																																	
