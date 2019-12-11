@@ -9,7 +9,7 @@ Study Type	# look up in https://www.ebi.ac.uk/ols/ontologies/efo or leave blank
 Study Type Term Source REF	# leave blank																																
 Study Type Term Accession	# leave blank																																
 Study Description	# a brief description of the overall aim of the study.  The publication abstract can be entered here.																	
-Study Key Words	# a few key words for the study.																									
+Study Key Words	# fill in																												
 Study Organism	# if more than one organism was studied, enter them in separate columns																																
 Study Organism Term Source REF	NCBITaxon																																
 Study Organism Term Accession	# leave blank																																
