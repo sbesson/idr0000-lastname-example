@@ -32,7 +32,7 @@ Study Person ORCID	# fill in
 Study Person Roles	submitter																																
 																																	
 # Study License and Data DOI																																	
-Study License	# fill in (CC-BY preferred)																																
+Study License	# fill in (CC BY 4.0 is the default licence, update this line to confirm)																																
 Study License URL	# leave blank																																
 Study Copyright	# fill in																																
 Study Data Publisher	# leave blank																																
