@@ -16,7 +16,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Build project
-        run: zip templates.zip `find * -iname "*.txt"`
+        run: zip IDR_submission_templates.zip `find * -iname "*.txt"`
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -34,6 +34,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: templates.zip
-          asset_name: templates.zip
+          asset_path: IDR_submission_templates.zip
+          asset_name: IDR_submission_templates.zip
           asset_content_type: application/zip
