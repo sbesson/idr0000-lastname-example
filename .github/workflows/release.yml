@@ -27,8 +27,8 @@ jobs:
           release_name: Release ${{ github.ref }}
           draft: false
           prerelease: false
-      - name: Upload Release Asset
-        id: upload-release-asset
+      - name: Upload HCS template
+        id: upload-hcs-template
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -37,8 +37,8 @@ jobs:
           asset_path: idr_hcs_submission_template.zip
           asset_name: idr_hcs_submission_template.zip
           asset_content_type: application/zip
-      - name: Upload Release Asset
-        id: upload-release-asset
+      - name: Upload experiment template
+        id: upload-experiment-template
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
