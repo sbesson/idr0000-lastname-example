@@ -16,7 +16,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Build project
-        run: zip IDR_submission_templates.zip `find * -iname "*.txt"`
+        run: ./release.sh
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
