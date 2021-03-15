@@ -61,6 +61,9 @@ Screen Technology Type Term Accession	# leave blank
 Screen Type	# choose from: primary screen, secondary screen, validation screen, or enter your own value																																
 Screen Type Term Source REF																																	
 Screen Type Term Accession																																	
+Screen Organism	# if different from Study Organism																																
+Screen Organism Term Source REF	NCBITaxon																																
+Screen Organism Term Accession	# leave blank																																
 Screen Comments	# if there is anything you want to say about the screen not covered elsewhere enter it here e.g. images for plate 3 are missing due to corruption																																
 																																	
 # Library section. The library file should be supplied separately and it should contain  the reagents description including, at the absolute minimum: reagent ID, sequences and position in the layout (= plate + position in the plate)																																	
